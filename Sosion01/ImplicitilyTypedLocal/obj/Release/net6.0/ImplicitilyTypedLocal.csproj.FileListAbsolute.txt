@@ -1,0 +1,15 @@
+D:\hoc\Sosion01\ImplicitilyTypedLocal\bin\Release\net6.0\ImplicitilyTypedLocal.exe
+D:\hoc\Sosion01\ImplicitilyTypedLocal\bin\Release\net6.0\ImplicitilyTypedLocal.deps.json
+D:\hoc\Sosion01\ImplicitilyTypedLocal\bin\Release\net6.0\ImplicitilyTypedLocal.runtimeconfig.json
+D:\hoc\Sosion01\ImplicitilyTypedLocal\bin\Release\net6.0\ImplicitilyTypedLocal.dll
+D:\hoc\Sosion01\ImplicitilyTypedLocal\bin\Release\net6.0\ImplicitilyTypedLocal.pdb
+D:\hoc\Sosion01\ImplicitilyTypedLocal\obj\Release\net6.0\ImplicitilyTypedLocal.csproj.AssemblyReference.cache
+D:\hoc\Sosion01\ImplicitilyTypedLocal\obj\Release\net6.0\ImplicitilyTypedLocal.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\Sosion01\ImplicitilyTypedLocal\obj\Release\net6.0\ImplicitilyTypedLocal.AssemblyInfoInputs.cache
+D:\hoc\Sosion01\ImplicitilyTypedLocal\obj\Release\net6.0\ImplicitilyTypedLocal.AssemblyInfo.cs
+D:\hoc\Sosion01\ImplicitilyTypedLocal\obj\Release\net6.0\ImplicitilyTypedLocal.csproj.CoreCompileInputs.cache
+D:\hoc\Sosion01\ImplicitilyTypedLocal\obj\Release\net6.0\ImplicitilyTypedLocal.dll
+D:\hoc\Sosion01\ImplicitilyTypedLocal\obj\Release\net6.0\refint\ImplicitilyTypedLocal.dll
+D:\hoc\Sosion01\ImplicitilyTypedLocal\obj\Release\net6.0\ImplicitilyTypedLocal.pdb
+D:\hoc\Sosion01\ImplicitilyTypedLocal\obj\Release\net6.0\ImplicitilyTypedLocal.genruntimeconfig.cache
+D:\hoc\Sosion01\ImplicitilyTypedLocal\obj\Release\net6.0\ref\ImplicitilyTypedLocal.dll

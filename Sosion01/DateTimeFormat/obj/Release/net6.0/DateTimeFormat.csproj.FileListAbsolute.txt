@@ -1,0 +1,15 @@
+D:\hoc\Sosion01\DateTimeFormat\bin\Release\net6.0\DateTimeFormat.exe
+D:\hoc\Sosion01\DateTimeFormat\bin\Release\net6.0\DateTimeFormat.deps.json
+D:\hoc\Sosion01\DateTimeFormat\bin\Release\net6.0\DateTimeFormat.runtimeconfig.json
+D:\hoc\Sosion01\DateTimeFormat\bin\Release\net6.0\DateTimeFormat.dll
+D:\hoc\Sosion01\DateTimeFormat\bin\Release\net6.0\DateTimeFormat.pdb
+D:\hoc\Sosion01\DateTimeFormat\obj\Release\net6.0\DateTimeFormat.csproj.AssemblyReference.cache
+D:\hoc\Sosion01\DateTimeFormat\obj\Release\net6.0\DateTimeFormat.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\Sosion01\DateTimeFormat\obj\Release\net6.0\DateTimeFormat.AssemblyInfoInputs.cache
+D:\hoc\Sosion01\DateTimeFormat\obj\Release\net6.0\DateTimeFormat.AssemblyInfo.cs
+D:\hoc\Sosion01\DateTimeFormat\obj\Release\net6.0\DateTimeFormat.csproj.CoreCompileInputs.cache
+D:\hoc\Sosion01\DateTimeFormat\obj\Release\net6.0\DateTimeFormat.dll
+D:\hoc\Sosion01\DateTimeFormat\obj\Release\net6.0\refint\DateTimeFormat.dll
+D:\hoc\Sosion01\DateTimeFormat\obj\Release\net6.0\DateTimeFormat.pdb
+D:\hoc\Sosion01\DateTimeFormat\obj\Release\net6.0\DateTimeFormat.genruntimeconfig.cache
+D:\hoc\Sosion01\DateTimeFormat\obj\Release\net6.0\ref\DateTimeFormat.dll

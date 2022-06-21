@@ -1,0 +1,15 @@
+D:\hoc\Sosion01\AnonTypes\bin\Release\net6.0\AnonTypes.exe
+D:\hoc\Sosion01\AnonTypes\bin\Release\net6.0\AnonTypes.deps.json
+D:\hoc\Sosion01\AnonTypes\bin\Release\net6.0\AnonTypes.runtimeconfig.json
+D:\hoc\Sosion01\AnonTypes\bin\Release\net6.0\AnonTypes.dll
+D:\hoc\Sosion01\AnonTypes\bin\Release\net6.0\AnonTypes.pdb
+D:\hoc\Sosion01\AnonTypes\obj\Release\net6.0\AnonTypes.csproj.AssemblyReference.cache
+D:\hoc\Sosion01\AnonTypes\obj\Release\net6.0\AnonTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\Sosion01\AnonTypes\obj\Release\net6.0\AnonTypes.AssemblyInfoInputs.cache
+D:\hoc\Sosion01\AnonTypes\obj\Release\net6.0\AnonTypes.AssemblyInfo.cs
+D:\hoc\Sosion01\AnonTypes\obj\Release\net6.0\AnonTypes.csproj.CoreCompileInputs.cache
+D:\hoc\Sosion01\AnonTypes\obj\Release\net6.0\AnonTypes.dll
+D:\hoc\Sosion01\AnonTypes\obj\Release\net6.0\refint\AnonTypes.dll
+D:\hoc\Sosion01\AnonTypes\obj\Release\net6.0\AnonTypes.pdb
+D:\hoc\Sosion01\AnonTypes\obj\Release\net6.0\AnonTypes.genruntimeconfig.cache
+D:\hoc\Sosion01\AnonTypes\obj\Release\net6.0\ref\AnonTypes.dll

@@ -1,0 +1,15 @@
+D:\hoc\Sosion01\ReferenceType\bin\Release\net6.0\ReferenceType.exe
+D:\hoc\Sosion01\ReferenceType\bin\Release\net6.0\ReferenceType.deps.json
+D:\hoc\Sosion01\ReferenceType\bin\Release\net6.0\ReferenceType.runtimeconfig.json
+D:\hoc\Sosion01\ReferenceType\bin\Release\net6.0\ReferenceType.dll
+D:\hoc\Sosion01\ReferenceType\bin\Release\net6.0\ReferenceType.pdb
+D:\hoc\Sosion01\ReferenceType\obj\Release\net6.0\ReferenceType.csproj.AssemblyReference.cache
+D:\hoc\Sosion01\ReferenceType\obj\Release\net6.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\Sosion01\ReferenceType\obj\Release\net6.0\ReferenceType.AssemblyInfoInputs.cache
+D:\hoc\Sosion01\ReferenceType\obj\Release\net6.0\ReferenceType.AssemblyInfo.cs
+D:\hoc\Sosion01\ReferenceType\obj\Release\net6.0\ReferenceType.csproj.CoreCompileInputs.cache
+D:\hoc\Sosion01\ReferenceType\obj\Release\net6.0\ReferenceType.dll
+D:\hoc\Sosion01\ReferenceType\obj\Release\net6.0\refint\ReferenceType.dll
+D:\hoc\Sosion01\ReferenceType\obj\Release\net6.0\ReferenceType.pdb
+D:\hoc\Sosion01\ReferenceType\obj\Release\net6.0\ReferenceType.genruntimeconfig.cache
+D:\hoc\Sosion01\ReferenceType\obj\Release\net6.0\ref\ReferenceType.dll
