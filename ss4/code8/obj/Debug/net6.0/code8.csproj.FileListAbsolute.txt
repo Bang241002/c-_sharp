@@ -1,0 +1,15 @@
+D:\hoc\code1\code8\bin\Debug\net6.0\code8.exe
+D:\hoc\code1\code8\bin\Debug\net6.0\code8.deps.json
+D:\hoc\code1\code8\bin\Debug\net6.0\code8.runtimeconfig.json
+D:\hoc\code1\code8\bin\Debug\net6.0\code8.dll
+D:\hoc\code1\code8\bin\Debug\net6.0\code8.pdb
+D:\hoc\code1\code8\obj\Debug\net6.0\code8.csproj.AssemblyReference.cache
+D:\hoc\code1\code8\obj\Debug\net6.0\code8.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\code1\code8\obj\Debug\net6.0\code8.AssemblyInfoInputs.cache
+D:\hoc\code1\code8\obj\Debug\net6.0\code8.AssemblyInfo.cs
+D:\hoc\code1\code8\obj\Debug\net6.0\code8.csproj.CoreCompileInputs.cache
+D:\hoc\code1\code8\obj\Debug\net6.0\code8.dll
+D:\hoc\code1\code8\obj\Debug\net6.0\refint\code8.dll
+D:\hoc\code1\code8\obj\Debug\net6.0\code8.pdb
+D:\hoc\code1\code8\obj\Debug\net6.0\code8.genruntimeconfig.cache
+D:\hoc\code1\code8\obj\Debug\net6.0\ref\code8.dll

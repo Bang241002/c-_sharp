@@ -1,0 +1,15 @@
+D:\hoc\code1\code24\bin\Debug\net6.0\code24.exe
+D:\hoc\code1\code24\bin\Debug\net6.0\code24.deps.json
+D:\hoc\code1\code24\bin\Debug\net6.0\code24.runtimeconfig.json
+D:\hoc\code1\code24\bin\Debug\net6.0\code24.dll
+D:\hoc\code1\code24\bin\Debug\net6.0\code24.pdb
+D:\hoc\code1\code24\obj\Debug\net6.0\code24.csproj.AssemblyReference.cache
+D:\hoc\code1\code24\obj\Debug\net6.0\code24.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\code1\code24\obj\Debug\net6.0\code24.AssemblyInfoInputs.cache
+D:\hoc\code1\code24\obj\Debug\net6.0\code24.AssemblyInfo.cs
+D:\hoc\code1\code24\obj\Debug\net6.0\code24.csproj.CoreCompileInputs.cache
+D:\hoc\code1\code24\obj\Debug\net6.0\code24.dll
+D:\hoc\code1\code24\obj\Debug\net6.0\refint\code24.dll
+D:\hoc\code1\code24\obj\Debug\net6.0\code24.pdb
+D:\hoc\code1\code24\obj\Debug\net6.0\code24.genruntimeconfig.cache
+D:\hoc\code1\code24\obj\Debug\net6.0\ref\code24.dll

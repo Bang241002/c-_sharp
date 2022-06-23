@@ -1,0 +1,15 @@
+D:\hoc\code1\code18\bin\Debug\net6.0\code18.exe
+D:\hoc\code1\code18\bin\Debug\net6.0\code18.deps.json
+D:\hoc\code1\code18\bin\Debug\net6.0\code18.runtimeconfig.json
+D:\hoc\code1\code18\bin\Debug\net6.0\code18.dll
+D:\hoc\code1\code18\bin\Debug\net6.0\code18.pdb
+D:\hoc\code1\code18\obj\Debug\net6.0\code18.csproj.AssemblyReference.cache
+D:\hoc\code1\code18\obj\Debug\net6.0\code18.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\code1\code18\obj\Debug\net6.0\code18.AssemblyInfoInputs.cache
+D:\hoc\code1\code18\obj\Debug\net6.0\code18.AssemblyInfo.cs
+D:\hoc\code1\code18\obj\Debug\net6.0\code18.csproj.CoreCompileInputs.cache
+D:\hoc\code1\code18\obj\Debug\net6.0\code18.dll
+D:\hoc\code1\code18\obj\Debug\net6.0\refint\code18.dll
+D:\hoc\code1\code18\obj\Debug\net6.0\code18.pdb
+D:\hoc\code1\code18\obj\Debug\net6.0\code18.genruntimeconfig.cache
+D:\hoc\code1\code18\obj\Debug\net6.0\ref\code18.dll
