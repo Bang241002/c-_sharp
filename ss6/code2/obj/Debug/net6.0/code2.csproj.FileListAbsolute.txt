@@ -1,5 +1,0 @@
-D:\hoc\ss6\code2\obj\Debug\net6.0\code2.csproj.AssemblyReference.cache
-D:\hoc\ss6\code2\obj\Debug\net6.0\code2.GeneratedMSBuildEditorConfig.editorconfig
-D:\hoc\ss6\code2\obj\Debug\net6.0\code2.AssemblyInfoInputs.cache
-D:\hoc\ss6\code2\obj\Debug\net6.0\code2.AssemblyInfo.cs
-D:\hoc\ss6\code2\obj\Debug\net6.0\code2.csproj.CoreCompileInputs.cache

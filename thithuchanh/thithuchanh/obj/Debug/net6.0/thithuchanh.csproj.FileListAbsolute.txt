@@ -1,0 +1,15 @@
+D:\hoc\thithuchanh\thithuchanh\bin\Debug\net6.0\thithuchanh.exe
+D:\hoc\thithuchanh\thithuchanh\bin\Debug\net6.0\thithuchanh.deps.json
+D:\hoc\thithuchanh\thithuchanh\bin\Debug\net6.0\thithuchanh.runtimeconfig.json
+D:\hoc\thithuchanh\thithuchanh\bin\Debug\net6.0\thithuchanh.dll
+D:\hoc\thithuchanh\thithuchanh\bin\Debug\net6.0\thithuchanh.pdb
+D:\hoc\thithuchanh\thithuchanh\obj\Debug\net6.0\thithuchanh.csproj.AssemblyReference.cache
+D:\hoc\thithuchanh\thithuchanh\obj\Debug\net6.0\thithuchanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\thithuchanh\thithuchanh\obj\Debug\net6.0\thithuchanh.AssemblyInfoInputs.cache
+D:\hoc\thithuchanh\thithuchanh\obj\Debug\net6.0\thithuchanh.AssemblyInfo.cs
+D:\hoc\thithuchanh\thithuchanh\obj\Debug\net6.0\thithuchanh.csproj.CoreCompileInputs.cache
+D:\hoc\thithuchanh\thithuchanh\obj\Debug\net6.0\thithuchanh.dll
+D:\hoc\thithuchanh\thithuchanh\obj\Debug\net6.0\refint\thithuchanh.dll
+D:\hoc\thithuchanh\thithuchanh\obj\Debug\net6.0\thithuchanh.pdb
+D:\hoc\thithuchanh\thithuchanh\obj\Debug\net6.0\thithuchanh.genruntimeconfig.cache
+D:\hoc\thithuchanh\thithuchanh\obj\Debug\net6.0\ref\thithuchanh.dll
